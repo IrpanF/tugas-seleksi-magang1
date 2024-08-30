@@ -1,0 +1,19 @@
+{
+    "id_kategori_produk": 1,
+    "products": [
+      {
+        "nama_produk": "Laptop Dell",
+        "stock": 10,
+        "harga_produk": 12000000,
+        "photo_produk": "base64string1"
+      },
+      {
+        "nama_produk": "Laptop HP",
+        "stock": 15,
+        "harga_produk": 13000000,
+        "photo_produk": "base64string2"
+      }
+    ]
+  }
+
+  
